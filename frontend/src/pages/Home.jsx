@@ -14,12 +14,8 @@ const Home = () => {
     <EngineProducts />
     <LatestCollections />
     <Accessories />
-    <BestSeller />
     <OurPolicy />
     <NewsLetter />
-
-
-
     </>
   )
 }

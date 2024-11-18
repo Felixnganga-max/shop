@@ -18,7 +18,7 @@ const EngineProducts = () => {
   return (
     <div className='custom-margin my-10 sm:my-8 md:my-10'>
       <div className="text-center md:mt-2 py-8 text-3xl">
-        <Title text1={"ENGINE"} text2={"PRODUCTS"} />
+        <Title text1={"Latest"} text2={"Arrivals"} />
         <p className='w-3/4 m-auto text-xl sm:text-sm md:text-base text-gray-700' >
         Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quisquam dolores! Et deleniti quibusdam id!
         </p>
